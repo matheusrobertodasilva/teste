@@ -1,9 +1,9 @@
 body {
-    background: linear-gradient(45deg, rgb(145, 126, 126), darkblue);
+    background:linear-gradient(90deg, black, darkblue); 
 }
 
 .imagem {
-    background: url(./grupo_jovens/assets/img/rafaelEjulia.jpeg) no-repeat center / cover ;
+    background: url(../projetos/grupo_jovens/assets/img/alfa.png) no-repeat center / cover ;
     border-radius: 100%;
     height: 300px;
     margin: 0 auto;
